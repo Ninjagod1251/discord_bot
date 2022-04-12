@@ -1,0 +1,6 @@
+.env
+.idea
+errorLog.log
+__pycache__
+Pipfile*
+Python*
